@@ -4,7 +4,7 @@ The `advanced` implementation supports sending back-to-back text messages as sho
 # Usage
 Working comands for the client: :UPLOAD: filename - uploads file to the server | :DOWNLOAD: filename - downloads file from server (server may barrow from other client) | :DELETE: filename - deletes specified file locally
 
-#second client note
+# Second client note
 not the best way I could have done this. Just a last minute way to test using one machine. The second_client just contains the the stuff needed to run a second client locally without changing any code and while letting the second client have it's own directory.  
 
 ## A Few Caveats
